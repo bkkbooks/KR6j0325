@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0325/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 毘俱胝菩薩一百八名經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1114.xml
+    old_id: T20n1114
+hash: sha256:86405809f6abb6bfdaccc9989285aa507cf8a68a8417d455d76420294a1dd299
