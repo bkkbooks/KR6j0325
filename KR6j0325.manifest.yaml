@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0325_000.yaml, hash: 'sha256:86405809f6abb6bfdaccc9989285aa507cf8a68a8417d455d76420294a1dd299'}
-  - {seq: 1, filename: KR6j0325_001.yaml, hash: 'sha256:a181ade3f19c34427b35f2c0d1b2664a7e22bf789bd6ff04a7da9fb2aec84fc2'}
+  - {seq: 1, filename: KR6j0325_001.yaml, hash: 'sha256:6ef5f52f1a7976dbc218d8163dec22a9a5510975a641591db9910c7794ad6e2a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0325_001.markers.yaml, hash: 'sha256:756034e914095d950d0121e741f8a632cba062819836f5b737becc63a6eeac7a'}
+  - {seq: 0, role: markers, filename: assets/KR6j0325_000.markers.yaml, hash: 'sha256:1defc5019bec5758f06b23b15b3908dffeed61e8789e3f55e0da583349d5b95f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0325_001.markers.yaml, hash: 'sha256:272b3c78c7b05ce3b57fccd78df4d49dda9519d738d72eabd5505cc77b96d5df'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 毘俱胝菩薩一百八名經
   type: juan
   level: 1
-hash: sha256:faf701ea0bb293e7518a498234c44720b35cfc9d6333d55d6e702736fcc7a949
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:61fd865593a18102e568e01bd002c64b7ee966feb2408163d78c6c18d4264384
