@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0325/v1
 canonical_location: https://kanripo.org/bkk/KR6j0325/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 毘俱胝菩薩一百八名經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0325_000.yaml, hash: 'sha256:86405809f6abb6bfdaccc9989285aa507cf8a68a8417d455d76420294a1dd299'}
-  - {seq: 1, filename: KR6j0325_001.yaml, hash: 'sha256:6ef5f52f1a7976dbc218d8163dec22a9a5510975a641591db9910c7794ad6e2a'}
+  - {seq: 1, filename: KR6j0325_001.yaml, hash: 'sha256:e9c161f3fba5d7c7db4b69fdb3968595bfae8a71b3bc4211d9490f920dcdfa48'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0325_000.markers.yaml, hash: 'sha256:1defc5019bec5758f06b23b15b3908dffeed61e8789e3f55e0da583349d5b95f'}
-  - {seq: 1, role: markers, filename: assets/KR6j0325_001.markers.yaml, hash: 'sha256:272b3c78c7b05ce3b57fccd78df4d49dda9519d738d72eabd5505cc77b96d5df'}
+  - {seq: 1, role: markers, filename: assets/KR6j0325_001.markers.yaml, hash: 'sha256:4e09fa660a5b3510fd8d2e2141501902e2e0c607b39092f33ee8cc5143089dde'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 毘俱胝菩薩一百八名經
   type: juan
   level: 1
-hash: sha256:61fd865593a18102e568e01bd002c64b7ee966feb2408163d78c6c18d4264384
+hash: sha256:2290e1d95ec427c03f6350909c7b622e95f12bb10eb6e5e226af90201710e709
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
